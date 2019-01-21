@@ -23,4 +23,5 @@ dependencies {
 
     // TODO 1: 添加对 lottie android 库的依赖. 注意版本使用 2.7.0
     // lottie Android 官网：https://airbnb.io/lottie/android/android.html
+    compile'com.airbnb.android:lottie:2.7.0'
 }
